@@ -1,0 +1,16 @@
+INSERT INTO pizzas (name, description, price, image_url, created_at) VALUES
+('Calabresa', 'Calabresa, cebola, queijo mussarela e orégano', 45.00, '/img/pizzas/calabresa.jpg', NOW()),
+('Marguerita', 'Mussarela, tomate, manjericão e azeite', 42.00, '/img/pizzas/marguerita.jpg', NOW()),
+('Frango com Catupiry', 'Frango desfiado, catupiry e orégano', 47.00, '/img/pizzas/frango-catupiry.jpg', NOW()),
+('Portuguesa', 'Presunto, ovo, cebola, azeitona e pimentão', 48.00, '/img/pizzas/portuguesa.jpg', NOW()),
+('Quatro Queijos', 'Mussarela, gorgonzola, provolone e parmesão', 50.00, '/img/pizzas/quatro-queijos.jpg', NOW()),
+('Pepperoni', 'Pepperoni fatiado, mussarela e molho de tomate', 46.00, '/img/pizzas/pepperoni.jpg', NOW()),
+('Vegetariana', 'Legumes grelhados, mussarela e molho especial', 44.00, '/img/pizzas/vegetariana.jpg', NOW()),
+('Bacon com Cheddar', 'Bacon crocante, cheddar e cebola', 49.00, '/img/pizzas/bacon-cheddar.jpg', NOW()),
+('Napolitana', 'Mussarela, tomate, alho e orégano', 43.00, '/img/pizzas/napolitana.jpg', NOW()),
+('Toscana', 'Linguiça toscana, pimentão e queijo', 47.00, '/img/pizzas/toscana.jpg', NOW()),
+('Carne Seca', 'Carne seca, cebola roxa e requeijão', 52.00, '/img/pizzas/carne-seca.jpg', NOW()),
+('Mexicana', 'Pimenta jalapeño, carne moída e cheddar', 53.00, '/img/pizzas/mexicana.jpg', NOW()),
+('Doce de Banana', 'Banana, açúcar, canela e leite condensado', 40.00, '/img/pizzas/doce-banana.jpg', NOW()),
+('Romeu e Julieta', 'Goiabada e queijo mussarela', 41.00, '/img/pizzas/romeu-julieta.jpg', NOW()),
+('Brigadeiro', 'Chocolate granulado e leite condensado', 39.00, '/img/pizzas/brigadeiro.jpg', NOW());

@@ -1,0 +1,16 @@
+INSERT INTO drinks (name, description, price, image_url, created_at) VALUES
+('Coca-Cola', 'Refrigerante lata 350ml', 6.00, '/img/drinks/coca.jpg', NOW()),
+('Guaraná', 'Refrigerante lata 350ml', 6.00, '/img/drinks/guarana.jpg', NOW()),
+('Suco de Laranja', 'Suco natural 500ml', 8.00, '/img/drinks/laranja.jpg', NOW()),
+('Água', 'Água sem gás 500ml', 4.00, '/img/drinks/agua.jpg', NOW()),
+('Heineken', 'Cerveja long neck 330ml', 9.00, '/img/drinks/heineken.jpg', NOW()),
+('Fanta Laranja', 'Refrigerante lata 350ml', 6.00, '/img/drinks/fanta.jpg', NOW()),
+('Pepsi', 'Refrigerante lata 350ml', 6.00, '/img/drinks/pepsi.jpg', NOW()),
+('Chá Gelado', 'Chá de pêssego 500ml', 7.00, '/img/drinks/cha-pessego.jpg', NOW()),
+('Suco de Uva', 'Suco natural 500ml', 8.00, '/img/drinks/suco-uva.jpg', NOW()),
+('Red Bull', 'Energético lata 250ml', 10.00, '/img/drinks/redbull.jpg', NOW()),
+('Água com Gás', 'Garrafa 500ml', 5.00, '/img/drinks/agua-gas.jpg', NOW()),
+('Monster Energy', 'Energético 473ml', 12.00, '/img/drinks/monster.jpg', NOW()),
+('Ice Tea Limão', 'Chá gelado 500ml', 7.00, '/img/drinks/icetea-limao.jpg', NOW()),
+('Cerveja Budweiser', 'Long neck 330ml', 9.00, '/img/drinks/budweiser.jpg', NOW()),
+('Cerveja Brahma', 'Lata 350ml', 6.00, '/img/drinks/brahma.jpg', NOW());
